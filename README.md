@@ -1,2 +1,1 @@
-# TinCat
-an example html css project
+TinDog Starting Files
